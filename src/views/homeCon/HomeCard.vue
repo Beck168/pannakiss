@@ -76,9 +76,6 @@ export default {
   padding-top: 3rem !important;
   background-color: #fff;
 }
-.b-card-body {
-  /* background-color: rgba(172, 172, 172, 0.1); */
-}
 .details-h1 {
   margin: 2rem 0 2rem 0;
 }
